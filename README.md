@@ -53,13 +53,18 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
-**B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
+**B.Observation:** 
+<img width="482" height="405" alt="Screenshot 2026-05-13 094438" src="https://github.com/user-attachments/assets/0635daba-b2ad-41fb-8c00-a0dc92a49bff" />
 
-**C.Analysis of Results: (Write your own)**
 
-(Include sample calculations/Display/plot/typical graph)
+**C.Analysis of Results:**
 
-**D.Conclusions: (Write  your Own)**
+<img width="1020" height="1383" alt="WhatsApp Image 2026-05-13 at 9 47 33 AM" src="https://github.com/user-attachments/assets/4645822a-4e8d-496c-8842-5f9effe86554" />
+
+
+**D.Conclusions:**  
+
+The experiment successfully demonstrates the negative resistance behavior of the Gunn diode, confirming its ability to generate microwave oscillations. The I–V curve clearly shows the region of negative differential resistance, essential for oscillation. The PIN diode modulator effectively varied the signal amplitude, and the depth of modulation was accurately measured. Thus, the Gunn diode oscillator and PIN modulator were found to work efficiently for microwave generation and amplitude modulation applications.
 
 **Precautions:**
 
@@ -68,4 +73,4 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 •	Observation should be taken properly.
 
 **Result:**
-
+ The I–V characteristics of the Gunn diode were successfully plotted, showing a clear negative resistance region. The depth of modulation of the PIN diode was calculated from the difference in attenuation readings, confirming proper amplitude modulation of the microwave signal.
